@@ -1,7 +1,10 @@
 h1{
-    margin-top:10px
+    margin-top:10px;
+    margin-bottom:10px;
 }
-
+button{
+    margin-bottom:20px;
+}
 .nav-item:hover{
     color:white;
 }
